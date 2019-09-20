@@ -30,14 +30,14 @@ namespace QuaverCodeChallenge.Servcies
             // Convert data to JObject
             JObject json = JObject.Parse(content);
 
-            // Loop though items looking for URL's and add to a list
+            // Loop through items looking for URL's and add to a list
             var jsonItemList = json["item"];
             foreach (var i in jsonItemList)
             {
                 repoNames.Add((i["owner"]["url"]).ToString().ToUpper());
             }
 
-            // Get what url's are currentyly stored in the text file
+            // Get what url's are currently stored in the text file
             IList<string> repoNamesInFile = ReadFromFile();
 
             // Write to file sending what was found in the text file as well as what was pulled from Github

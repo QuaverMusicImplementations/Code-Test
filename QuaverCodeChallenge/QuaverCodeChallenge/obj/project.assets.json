@@ -12582,11 +12582,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jerad Hobgood\\Desktop\\QuaverCodingChallenge\\New-Hire-Coding-Challenge\\QuaverCodeChallenge\\QuaverCodeChallenge\\QuaverCodeChallenge.csproj",
+      "projectUniqueName": "C:\\Users\\Jerad Hobgood\\Desktop\\MyTest\\Code-Test\\QuaverCodeChallenge\\QuaverCodeChallenge\\QuaverCodeChallenge.csproj",
       "projectName": "QuaverCodeChallenge",
-      "projectPath": "C:\\Users\\Jerad Hobgood\\Desktop\\QuaverCodingChallenge\\New-Hire-Coding-Challenge\\QuaverCodeChallenge\\QuaverCodeChallenge\\QuaverCodeChallenge.csproj",
+      "projectPath": "C:\\Users\\Jerad Hobgood\\Desktop\\MyTest\\Code-Test\\QuaverCodeChallenge\\QuaverCodeChallenge\\QuaverCodeChallenge.csproj",
       "packagesPath": "C:\\Users\\Jerad Hobgood\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jerad Hobgood\\Desktop\\QuaverCodingChallenge\\New-Hire-Coding-Challenge\\QuaverCodeChallenge\\QuaverCodeChallenge\\obj\\",
+      "outputPath": "C:\\Users\\Jerad Hobgood\\Desktop\\MyTest\\Code-Test\\QuaverCodeChallenge\\QuaverCodeChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
